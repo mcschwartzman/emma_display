@@ -1,0 +1,1 @@
+/usr/bin/vlc /home/mcschwartzman/Videos/tv_laconia_v1.mp4 --daemon --syslog
